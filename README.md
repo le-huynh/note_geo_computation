@@ -2,6 +2,7 @@
 
 Code and personal notes for:  
 - [Visualize climate data with R](https://nordicesmhub.github.io/climate-data-tutorial/04-visualization-R/index.html).
+- [Geocomputation with R](https://r.geocompx.org/) by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 - [Geographic Data Science with R: Visualizing and Analyzing Environmental Change](https://bookdown.org/mcwimberly/gdswr-book/) by Michael C. Wimberly.  
 - [Unlock the Secrets of Temperature Visualization with ECMWF data in R!](https://www.youtube.com/watch?v=NdEv3rqLM0s&ab_channel=MilosMakesMaps) 
 by [Milos Popovic](https://github.com/milos-agathon).  

@@ -541,6 +541,8 @@ tmap_animation(urb_anim,
     ## Creating animation
     ## Animation saved to G:\My Drive\git\note_geo_computation\geo_computation\chap09\urb_anim.gif
 
+![alt text](https://github.com/le-huynh/note_geo_computation/blob/main/geo_computation/chap09/urb_anim.gif?raw=true)
+
 # Interactive maps
 
 ``` r
